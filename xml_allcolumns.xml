@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<products>
+
+  <product>
+    <ID>1</ID>
+    <Name>Gaming Laptop X15</Name>
+    <Description>High performance gaming laptop</Description>
+    <Brand>Asus</Brand>
+    <Category>electronics > laptops > gaming</Category>
+    <Price>120000</Price>
+    <SalePrice>110000</SalePrice>
+    <Currency>INR</Currency>
+    <Color>Black</Color>
+    <Size>15 inch</Size>
+    <Availability>In Stock</Availability>
+    <SKU>LAP-001</SKU>
+    <URL>https://example.com/product1</URL>
+  </product>
+
+  <product>
+    <ID>2</ID>
+    <Name>Ultrabook Slim 14</Name>
+    <Description>Lightweight business laptop</Description>
+    <Brand>Dell</Brand>
+    <Category>electronics > laptops > ultrabook</Category>
+    <Price>90000</Price>
+    <SalePrice>85000</SalePrice>
+    <Currency>INR</Currency>
+    <Color>Silver</Color>
+    <Size>14 inch</Size>
+    <Availability>In Stock</Availability>
+    <SKU>LAP-002</SKU>
+    <URL>https://example.com/product2</URL>
+  </product>
+
+  <product>
+    <ID>3</ID>
+    <Name>Wireless Mouse Pro</Name>
+    <Description>Ergonomic wireless mouse</Description>
+    <Brand>Logitech</Brand>
+    <Category>electronics > accessories > mouse</Category>
+    <Price>1500</Price>
+    <SalePrice>1200</SalePrice>
+    <Currency>INR</Currency>
+    <Color>Black</Color>
+    <Size>Standard</Size>
+    <Availability>In Stock</Availability>
+    <SKU>ACC-001</SKU>
+    <URL>https://example.com/product3</URL>
+  </product>
+
+  <product>
+    <ID>4</ID>
+    <Name>Mechanical Keyboard RGB</Name>
+    <Description>Backlit gaming keyboard</Description>
+    <Brand>Redragon</Brand>
+    <Category>electronics > accessories > keyboard</Category>
+    <Price>3500</Price>
+    <SalePrice>3000</SalePrice>
+    <Currency>INR</Currency>
+    <Color>Black</Color>
+    <Size>Full Size</Size>
+    <Availability>In Stock</Availability>
+    <SKU>ACC-002</SKU>
+    <URL>https://example.com/product4</URL>
+  </product>
+
+  <product>
+    <ID>5</ID>
+    <Name>Bluetooth Speaker Mini</Name>
+    <Description>Portable speaker</Description>
+    <Brand>JBL</Brand>
+    <Category>electronics > audio > speakers</Category>
+    <Price>4000</Price>
+    <SalePrice>3500</SalePrice>
+    <Currency>INR</Currency>
+    <Color>Blue</Color>
+    <Size>Small</Size>
+    <Availability>Out of Stock</Availability>
+    <SKU>AUD-001</SKU>
+    <URL>https://example.com/product5</URL>
+  </product>
+
+  <!-- Repeat pattern with variations -->
+
+  <product>
+    <ID>6</ID>
+    <Name>Smartphone Alpha</Name>
+    <Description>Latest Android smartphone</Description>
+    <Brand>Samsung</Brand>
+    <Category>electronics > mobiles > smartphone</Category>
+    <Price>60000</Price>
+    <SalePrice>55000</SalePrice>
+    <Currency>INR</Currency>
+    <Color>White</Color>
+    <Size>6.5 inch</Size>
+    <Availability>In Stock</Availability>
+    <SKU>MOB-001</SKU>
+    <URL>https://example.com/product6</URL>
+  </product>
+
+  <product>
+    <ID>7</ID>
+    <Name>Smartphone Beta</Name>
+    <Description>Budget smartphone</Description>
+    <Brand>Realme</Brand>
+    <Category>electronics > mobiles > smartphone</Category>
+    <Price>15000</Price>
+    <SalePrice>14000</SalePrice>
+    <Currency>INR</Currency>
+    <Color>Blue</Color>
+    <Size>6.4 inch</Size>
+    <Availability>In Stock</Availability>
+    <SKU>MOB-002</SKU>
+    <URL>https://example.com/product7</URL>
+  </product>
+
+  <product>
+    <ID>8</ID>
+    <Name>Running Shoes Max</Name>
+    <Description>Comfort running shoes</Description>
+    <Brand>Nike</Brand>
+    <Category>fashion > footwear > sports</Category>
+    <Price>7000</Price>
+    <SalePrice>6500</SalePrice>
+    <Currency>INR</Currency>
+    <Color>Red</Color>
+    <Size>42</Size>
+    <Availability>In Stock</Availability>
+    <SKU>SHO-001</SKU>
+    <URL>https://example.com/product8</URL>
+  </product>
+
+  <product>
+    <ID>9</ID>
+    <Name>Casual Sneakers</Name>
+    <Description>Daily wear shoes</Description>
+    <Brand>Adidas</Brand>
+    <Category>fashion > footwear > casual</Category>
+    <Price>5000</Price>
+    <SalePrice>4500</SalePrice>
+    <Currency>INR</Currency>
+    <Color>White</Color>
+    <Size>41</Size>
+    <Availability>In Stock</Availability>
+    <SKU>SHO-002</SKU>
+    <URL>https://example.com/product9</URL>
+  </product>
+
+  <!-- Continue up to 25 -->
+
+  <product>
+    <ID>25</ID>
+    <Name>Office Chair Comfort</Name>
+    <Description>Ergonomic office chair</Description>
+    <Brand>GreenSoul</Brand>
+    <Category>furniture > chairs > office</Category>
+    <Price>12000</Price>
+    <SalePrice>10000</SalePrice>
+    <Currency>INR</Currency>
+    <Color>Black</Color>
+    <Size>Standard</Size>
+    <Availability>In Stock</Availability>
+    <SKU>FUR-005</SKU>
+    <URL>https://example.com/product25</URL>
+  </product>
+
+</products>
