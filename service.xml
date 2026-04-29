@@ -1,0 +1,93 @@
+  <website>
+
+  <company>
+    <name>TechNova Solutions</name>
+    <about>
+      <title>About Us</title>
+      <description>TechNova is a leading provider of AI, cloud, and software solutions for modern businesses.</description>
+      <link>https://example.com/about</link>
+    </about>
+  </company>
+
+  <services>
+
+    <service>
+      <title>AI Development</title>
+      <description>We build intelligent AI systems including chatbots, recommendation engines, and predictive analytics.</description>
+      <link>https://example.com/services/ai</link>
+    </service>
+
+    <service>
+      <title>Cloud Solutions</title>
+      <description>Scalable cloud infrastructure, migration, and DevOps automation services.</description>
+      <link>https://example.com/services/cloud</link>
+    </service>
+
+    <service>
+      <title>Web Development</title>
+      <description>Modern web applications using React, Django, and scalable backend systems.</description>
+      <link>https://example.com/services/web</link>
+    </service>
+
+    <service>
+      <title>Mobile App Development</title>
+      <description>Cross-platform mobile apps for Android and iOS with high performance.</description>
+      <link>https://example.com/services/mobile</link>
+    </service>
+
+  </services>
+
+  <blog>
+
+    <post>
+      <title>How AI is Transforming Businesses</title>
+      <description>Artificial Intelligence is changing how companies operate and make decisions.</description>
+      <link>https://example.com/blog/ai-transform</link>
+    </post>
+
+    <post>
+      <title>Cloud Migration Best Practices</title>
+      <description>Learn the best strategies to migrate your infrastructure to the cloud.</description>
+      <link>https://example.com/blog/cloud-migration</link>
+    </post>
+
+    <post>
+      <title>Top Web Development Trends</title>
+      <description>Explore the latest trends in frontend and backend technologies.</description>
+      <link>https://example.com/blog/web-trends</link>
+    </post>
+
+    <post>
+      <title>Why Mobile Apps Matter</title>
+      <description>Mobile apps are essential for customer engagement and growth.</description>
+      <link>https://example.com/blog/mobile-apps</link>
+    </post>
+
+  </blog>
+
+  <faq>
+
+    <item>
+      <question>What services do you provide?</question>
+      <answer>We provide AI, cloud, web, and mobile development services.</answer>
+    </item>
+
+    <item>
+      <question>How can I contact you?</question>
+      <answer>You can reach us via email or contact form on our website.</answer>
+    </item>
+
+    <item>
+      <question>Do you offer custom solutions?</question>
+      <answer>Yes, we build fully customized solutions based on business needs.</answer>
+    </item>
+
+  </faq>
+
+  <contact>
+    <email>support@example.com</email>
+    <phone>+91-9876543210</phone>
+    <address>Ahmedabad, Gujarat, India</address>
+  </contact>
+
+</website>
