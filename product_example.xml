@@ -1,0 +1,279 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<products>
+
+  <product>
+    <id>1</id>
+    <name>Cotton T-Shirt</name>
+    <brand>Nike</brand>
+    <category>Clothing > Men > T-Shirts</category>
+    <color>Red</color>
+    <size>M</size>
+    <price>799</price>
+    <availability>In Stock</availability>
+  </product>
+
+  <product>
+    <id>2</id>
+    <name>Cotton T-Shirt</name>
+    <brand>Nike</brand>
+    <category>Clothing > Men > T-Shirts</category>
+    <color>Blue</color>
+    <size>L</size>
+    <price>849</price>
+    <availability>In Stock</availability>
+  </product>
+
+  <product>
+    <id>3</id>
+    <name>Cotton T-Shirt</name>
+    <brand>Adidas</brand>
+    <category>Clothing > Men > T-Shirts</category>
+    <color>Black</color>
+    <size>M</size>
+    <price>899</price>
+    <availability>Out of Stock</availability>
+  </product>
+
+  <product>
+    <id>4</id>
+    <name>Formal Shirt</name>
+    <brand>Zara</brand>
+    <category>Clothing > Men > Shirts</category>
+    <color>White</color>
+    <size>L</size>
+    <price>1599</price>
+    <availability>In Stock</availability>
+  </product>
+
+  <product>
+    <id>5</id>
+    <name>Formal Shirt</name>
+    <brand>Zara</brand>
+    <category>Clothing > Men > Shirts</category>
+    <color>Blue</color>
+    <size>M</size>
+    <price>1499</price>
+    <availability>In Stock</availability>
+  </product>
+
+  <product>
+    <id>6</id>
+    <name>Running Shoes</name>
+    <brand>Nike</brand>
+    <category>Footwear > Sports</category>
+    <color>Black</color>
+    <size>42</size>
+    <price>3999</price>
+    <availability>In Stock</availability>
+  </product>
+
+  <product>
+    <id>7</id>
+    <name>Running Shoes</name>
+    <brand>Nike</brand>
+    <category>Footwear > Sports</category>
+    <color>White</color>
+    <size>41</size>
+    <price>3899</price>
+    <availability>Out of Stock</availability>
+  </product>
+
+  <product>
+    <id>8</id>
+    <name>Sneakers</name>
+    <brand>Puma</brand>
+    <category>Footwear > Casual</category>
+    <color>Red</color>
+    <size>40</size>
+    <price>2999</price>
+    <availability>In Stock</availability>
+  </product>
+
+  <product>
+    <id>9</id>
+    <name>Sneakers</name>
+    <brand>Puma</brand>
+    <category>Footwear > Casual</category>
+    <color>Black</color>
+    <size>42</size>
+    <price>3199</price>
+    <availability>In Stock</availability>
+  </product>
+
+  <product>
+    <id>10</id>
+    <name>Smartphone</name>
+    <brand>Samsung</brand>
+    <category>Electronics > Mobiles</category>
+    <color>Black</color>
+    <size>128GB</size>
+    <price>19999</price>
+    <availability>In Stock</availability>
+  </product>
+
+  <product>
+    <id>11</id>
+    <name>Smartphone</name>
+    <brand>Samsung</brand>
+    <category>Electronics > Mobiles</category>
+    <color>Blue</color>
+    <size>256GB</size>
+    <price>24999</price>
+    <availability>In Stock</availability>
+  </product>
+
+  <product>
+    <id>12</id>
+    <name>Smartphone</name>
+    <brand>Apple</brand>
+    <category>Electronics > Mobiles</category>
+    <color>White</color>
+    <size>128GB</size>
+    <price>69999</price>
+    <availability>In Stock</availability>
+  </product>
+
+  <product>
+    <id>13</id>
+    <name>Smartphone</name>
+    <brand>Apple</brand>
+    <category>Electronics > Mobiles</category>
+    <color>Black</color>
+    <size>256GB</size>
+    <price>79999</price>
+    <availability>Out of Stock</availability>
+  </product>
+
+  <product>
+    <id>14</id>
+    <name>Laptop</name>
+    <brand>Dell</brand>
+    <category>Electronics > Laptops</category>
+    <color>Silver</color>
+    <size>8GB RAM</size>
+    <price>55999</price>
+    <availability>In Stock</availability>
+  </product>
+
+  <product>
+    <id>15</id>
+    <name>Laptop</name>
+    <brand>Dell</brand>
+    <category>Electronics > Laptops</category>
+    <color>Black</color>
+    <size>16GB RAM</size>
+    <price>65999</price>
+    <availability>In Stock</availability>
+  </product>
+
+  <product>
+    <id>16</id>
+    <name>Laptop</name>
+    <brand>HP</brand>
+    <category>Electronics > Laptops</category>
+    <color>Grey</color>
+    <size>8GB RAM</size>
+    <price>52999</price>
+    <availability>Out of Stock</availability>
+  </product>
+
+  <product>
+    <id>17</id>
+    <name>Laptop</name>
+    <brand>HP</brand>
+    <category>Electronics > Laptops</category>
+    <color>Silver</color>
+    <size>16GB RAM</size>
+    <price>62999</price>
+    <availability>In Stock</availability>
+  </product>
+
+  <product>
+    <id>18</id>
+    <name>Backpack</name>
+    <brand>Wildcraft</brand>
+    <category>Accessories > Bags</category>
+    <color>Black</color>
+    <size>30L</size>
+    <price>1299</price>
+    <availability>In Stock</availability>
+  </product>
+
+  <product>
+    <id>19</id>
+    <name>Backpack</name>
+    <brand>Wildcraft</brand>
+    <category>Accessories > Bags</category>
+    <color>Blue</color>
+    <size>40L</size>
+    <price>1499</price>
+    <availability>In Stock</availability>
+  </product>
+
+  <product>
+    <id>20</id>
+    <name>Backpack</name>
+    <brand>Skybags</brand>
+    <category>Accessories > Bags</category>
+    <color>Red</color>
+    <size>35L</size>
+    <price>1399</price>
+    <availability>Out of Stock</availability>
+  </product>
+
+  <product>
+    <id>21</id>
+    <name>Headphones</name>
+    <brand>Sony</brand>
+    <category>Electronics > Audio</category>
+    <color>Black</color>
+    <size>Standard</size>
+    <price>2999</price>
+    <availability>In Stock</availability>
+  </product>
+
+  <product>
+    <id>22</id>
+    <name>Headphones</name>
+    <brand>Sony</brand>
+    <category>Electronics > Audio</category>
+    <color>White</color>
+    <size>Standard</size>
+    <price>3199</price>
+    <availability>In Stock</availability>
+  </product>
+
+  <product>
+    <id>23</id>
+    <name>Headphones</name>
+    <brand>Boat</brand>
+    <category>Electronics > Audio</category>
+    <color>Blue</color>
+    <size>Standard</size>
+    <price>1999</price>
+    <availability>In Stock</availability>
+  </product>
+
+  <product>
+    <id>24</id>
+    <name>Water Bottle</name>
+    <brand>Milton</brand>
+    <category>Home > Kitchen</category>
+    <color>Silver</color>
+    <size>1L</size>
+    <price>499</price>
+    <availability>In Stock</availability>
+  </product>
+
+  <product>
+    <id>25</id>
+    <name>Water Bottle</name>
+    <brand>Milton</brand>
+    <category>Home > Kitchen</category>
+    <color>Blue</color>
+    <size>750ml</size>
+    <price>399</price>
+    <availability>Out of Stock</availability>
+  </product>
+
+</products>
