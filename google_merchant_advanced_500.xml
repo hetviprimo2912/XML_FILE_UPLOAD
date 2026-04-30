@@ -1,0 +1,973 @@
+<?xml version="1.0" ?>
+<rss xmlns:g="http://base.google.com/ns/1.0" version="2.0">
+  <channel>
+    <title>CSV Converted Store</title>
+    <link>https://example.com</link>
+    <description>Feed generated from CSV</description>
+    <item>
+      <g:id>SKU1</g:id>
+      <g:title>Stylish Steel Chair</g:title>
+      <g:description>Air Flex Shirt in Red color with S size</g:description>
+      <g:link>https://example.com/product/1</g:link>
+      <g:image_link>https://picsum.photos/seed/SKU1/500/500</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>1187 INR</g:price>
+      <g:brand>Zara</g:brand>
+      <g:condition>new</g:condition>
+      <g:google_product_category>Fashion &gt; Clothing &gt; Casual</g:google_product_category>
+      <g:product_type>Fashion &gt; Clothing &gt; Casual</g:product_type>
+      <g:color>Red</g:color>
+      <g:size>S</g:size>
+      <g:shipping>
+        <g:country>IN</g:country>
+        <g:service>Standard</g:service>
+        <g:price>50 INR</g:price>
+      </g:shipping>
+    </item>
+    <item>
+      <g:id>SKU2</g:id>
+      <g:title>Stylish Steel Chair</g:title>
+      <g:description>Air Flex Shirt in Red color with M size</g:description>
+      <g:link>https://example.com/product/2</g:link>
+      <g:image_link>https://picsum.photos/seed/SKU2/500/500</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>534 INR</g:price>
+      <g:brand>Zara</g:brand>
+      <g:condition>new</g:condition>
+      <g:google_product_category>Fashion &gt; Clothing &gt; Casual</g:google_product_category>
+      <g:product_type>Fashion &gt; Clothing &gt; Casual</g:product_type>
+      <g:color>Red</g:color>
+      <g:size>M</g:size>
+      <g:shipping>
+        <g:country>IN</g:country>
+        <g:service>Standard</g:service>
+        <g:price>50 INR</g:price>
+      </g:shipping>
+    </item>
+    <item>
+      <g:id>SKU3</g:id>
+      <g:title>Stylish Steel Chair</g:title>
+      <g:description>Air Flex Shirt in Blue color with S size</g:description>
+      <g:link>https://example.com/product/3</g:link>
+      <g:image_link>https://picsum.photos/seed/SKU3/500/500</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>808 INR</g:price>
+      <g:brand>Zara</g:brand>
+      <g:condition>new</g:condition>
+      <g:google_product_category>Fashion &gt; Clothing &gt; Casual</g:google_product_category>
+      <g:product_type>Fashion &gt; Clothing &gt; Casual</g:product_type>
+      <g:color>Red</g:color>
+      <g:size>L</g:size>
+      <g:shipping>
+        <g:country>IN</g:country>
+        <g:service>Standard</g:service>
+        <g:price>50 INR</g:price>
+      </g:shipping>
+    </item>
+    <item>
+      <g:id>SKU4</g:id>
+      <g:title>Stylish Steel Chair</g:title>
+      <g:description>Air Flex Shirt in Blue color with M size</g:description>
+      <g:link>https://example.com/product/4</g:link>
+      <g:image_link>https://picsum.photos/seed/SKU4/500/500</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>718 INR</g:price>
+      <g:brand>Zara</g:brand>
+      <g:condition>new</g:condition>
+      <g:google_product_category>Fashion &gt; Clothing &gt; Casual</g:google_product_category>
+      <g:product_type>Fashion &gt; Clothing &gt; Casual</g:product_type>
+      <g:color>Red</g:color>
+      <g:size>XL</g:size>
+      <g:shipping>
+        <g:country>IN</g:country>
+        <g:service>Standard</g:service>
+        <g:price>50 INR</g:price>
+      </g:shipping>
+    </item>
+    <item>
+      <g:id>SKU5</g:id>
+      <g:title>Stylish Steel Chair</g:title>
+      <g:description>Air Flex Shirt in Black color with S size</g:description>
+      <g:link>https://example.com/product/5</g:link>
+      <g:image_link>https://picsum.photos/seed/SKU5/500/500</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>637 INR</g:price>
+      <g:brand>Zara</g:brand>
+      <g:condition>new</g:condition>
+      <g:google_product_category>Fashion &gt; Clothing &gt; Casual</g:google_product_category>
+      <g:product_type>Fashion &gt; Clothing &gt; Casual</g:product_type>
+      <g:color>Pink</g:color>
+      <g:size>S</g:size>
+      <g:shipping>
+        <g:country>IN</g:country>
+        <g:service>Standard</g:service>
+        <g:price>50 INR</g:price>
+      </g:shipping>
+    </item>
+    <item>
+      <g:id>SKU6</g:id>
+      <g:title>Stylish Steel Chair</g:title>
+      <g:description>Air Flex Shirt in Black color with M size</g:description>
+      <g:link>https://example.com/product/6</g:link>
+      <g:image_link>https://picsum.photos/seed/SKU6/500/500</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>544 INR</g:price>
+      <g:brand>Nike</g:brand>
+      <g:condition>new</g:condition>
+      <g:google_product_category>Fashion &gt; Clothing &gt; Casual</g:google_product_category>
+      <g:product_type>Fashion &gt; Clothing &gt; Casual</g:product_type>
+      <g:color>Purple</g:color>
+      <g:size>XL</g:size>
+      <g:shipping>
+        <g:country>IN</g:country>
+        <g:service>Standard</g:service>
+        <g:price>50 INR</g:price>
+      </g:shipping>
+    </item>
+    <item>
+      <g:id>SKU7</g:id>
+      <g:title>Eco Denim Headphones</g:title>
+      <g:description>Urban Casual Tee in Red color with S size</g:description>
+      <g:link>https://example.com/product/7</g:link>
+      <g:image_link>https://picsum.photos/seed/SKU7/500/500</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>830 INR</g:price>
+      <g:brand>Adidas</g:brand>
+      <g:condition>new</g:condition>
+      <g:google_product_category>Fashion &gt; Clothing &gt; Casual</g:google_product_category>
+      <g:product_type>Fashion &gt; Clothing &gt; Casual</g:product_type>
+      <g:color>Red</g:color>
+      <g:size>S</g:size>
+      <g:shipping>
+        <g:country>IN</g:country>
+        <g:service>Standard</g:service>
+        <g:price>50 INR</g:price>
+      </g:shipping>
+    </item>
+    <item>
+      <g:id>SKU8</g:id>
+      <g:title>Eco Denim Headphones</g:title>
+      <g:description>Urban Casual Tee in Red color with M size</g:description>
+      <g:link>https://example.com/product/8</g:link>
+      <g:image_link>https://picsum.photos/seed/SKU8/500/500</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>1232 INR</g:price>
+      <g:brand>Adidas</g:brand>
+      <g:condition>new</g:condition>
+      <g:google_product_category>Fashion &gt; Clothing &gt; Casual</g:google_product_category>
+      <g:product_type>Fashion &gt; Clothing &gt; Casual</g:product_type>
+      <g:color>Green</g:color>
+      <g:size>M</g:size>
+      <g:shipping>
+        <g:country>IN</g:country>
+        <g:service>Standard</g:service>
+        <g:price>50 INR</g:price>
+      </g:shipping>
+    </item>
+    <item>
+      <g:id>SKU9</g:id>
+      <g:title>Eco Denim Headphones</g:title>
+      <g:description>Urban Casual Tee in Blue color with S size</g:description>
+      <g:link>https://example.com/product/9</g:link>
+      <g:image_link>https://picsum.photos/seed/SKU9/500/500</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>754 INR</g:price>
+      <g:brand>Puma</g:brand>
+      <g:condition>new</g:condition>
+      <g:google_product_category>Fashion &gt; Clothing &gt; Casual</g:google_product_category>
+      <g:product_type>Fashion &gt; Clothing &gt; Casual</g:product_type>
+      <g:color>Blue</g:color>
+      <g:size>S</g:size>
+      <g:shipping>
+        <g:country>IN</g:country>
+        <g:service>Standard</g:service>
+        <g:price>50 INR</g:price>
+      </g:shipping>
+    </item>
+    <item>
+      <g:id>SKU10</g:id>
+      <g:title>Eco Denim Headphones</g:title>
+      <g:description>Urban Casual Tee in Blue color with M size</g:description>
+      <g:link>https://example.com/product/10</g:link>
+      <g:image_link>https://picsum.photos/seed/SKU10/500/500</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>507 INR</g:price>
+      <g:brand>Puma</g:brand>
+      <g:condition>new</g:condition>
+      <g:google_product_category>Fashion &gt; Clothing &gt; Casual</g:google_product_category>
+      <g:product_type>Fashion &gt; Clothing &gt; Casual</g:product_type>
+      <g:color>White</g:color>
+      <g:size>M</g:size>
+      <g:shipping>
+        <g:country>IN</g:country>
+        <g:service>Standard</g:service>
+        <g:price>50 INR</g:price>
+      </g:shipping>
+    </item>
+    <item>
+      <g:id>SKU11</g:id>
+      <g:title>Eco Denim Headphones</g:title>
+      <g:description>Urban Casual Tee in Black color with S size</g:description>
+      <g:link>https://example.com/product/11</g:link>
+      <g:image_link>https://picsum.photos/seed/SKU11/500/500</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>1068 INR</g:price>
+      <g:brand>Nike</g:brand>
+      <g:condition>new</g:condition>
+      <g:google_product_category>Fashion &gt; Clothing &gt; Casual</g:google_product_category>
+      <g:product_type>Fashion &gt; Clothing &gt; Casual</g:product_type>
+      <g:color>Black</g:color>
+      <g:size>S</g:size>
+      <g:shipping>
+        <g:country>IN</g:country>
+        <g:service>Standard</g:service>
+        <g:price>50 INR</g:price>
+      </g:shipping>
+    </item>
+    <item>
+      <g:id>SKU12</g:id>
+      <g:title>Eco Denim Headphones</g:title>
+      <g:description>Urban Casual Tee in Black color with M size</g:description>
+      <g:link>https://example.com/product/12</g:link>
+      <g:image_link>https://picsum.photos/seed/SKU12/500/500</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>734 INR</g:price>
+      <g:brand>Nike</g:brand>
+      <g:condition>new</g:condition>
+      <g:google_product_category>Fashion &gt; Clothing &gt; Casual</g:google_product_category>
+      <g:product_type>Fashion &gt; Clothing &gt; Casual</g:product_type>
+      <g:color>Pink</g:color>
+      <g:size>M</g:size>
+      <g:shipping>
+        <g:country>IN</g:country>
+        <g:service>Standard</g:service>
+        <g:price>50 INR</g:price>
+      </g:shipping>
+    </item>
+    <item>
+      <g:id>SKU13</g:id>
+      <g:title>Elegant Denim Jacket</g:title>
+      <g:description>Elegant Denim Jacket designed for everyday use with high quality finish and comfort. Ideal for modern lifestyle needs.</g:description>
+      <g:link>https://example.com/product/13</g:link>
+      <g:image_link>https://picsum.photos/seed/SKU13/500/500</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>830 INR</g:price>
+      <g:brand>Zara</g:brand>
+      <g:condition>new</g:condition>
+      <g:google_product_category>Fashion &gt; Clothing &gt; Casual</g:google_product_category>
+      <g:product_type>Fashion &gt; Clothing &gt; Casual</g:product_type>
+      <g:color>Red</g:color>
+      <g:size>S</g:size>
+      <g:shipping>
+        <g:country>IN</g:country>
+        <g:service>Standard</g:service>
+        <g:price>50 INR</g:price>
+      </g:shipping>
+    </item>
+    <item>
+      <g:id>SKU14</g:id>
+      <g:title>Elegant Denim Jacket</g:title>
+      <g:description>Elegant Denim Jacket designed for everyday use with high quality finish and comfort. Ideal for modern lifestyle needs.</g:description>
+      <g:link>https://example.com/product/14</g:link>
+      <g:image_link>https://picsum.photos/seed/SKU14/500/500</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>721 INR</g:price>
+      <g:brand>Zara</g:brand>
+      <g:condition>new</g:condition>
+      <g:google_product_category>Fashion &gt; Clothing &gt; Casual</g:google_product_category>
+      <g:product_type>Fashion &gt; Clothing &gt; Casual</g:product_type>
+      <g:color>Red</g:color>
+      <g:size>M</g:size>
+      <g:shipping>
+        <g:country>IN</g:country>
+        <g:service>Standard</g:service>
+        <g:price>50 INR</g:price>
+      </g:shipping>
+    </item>
+    <item>
+      <g:id>SKU15</g:id>
+      <g:title>Elegant Denim Jacket</g:title>
+      <g:description>Elegant Denim Jacket designed for everyday use with high quality finish and comfort. Ideal for modern lifestyle needs.</g:description>
+      <g:link>https://example.com/product/15</g:link>
+      <g:image_link>https://picsum.photos/seed/SKU15/500/500</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>1412 INR</g:price>
+      <g:brand>Zara</g:brand>
+      <g:condition>new</g:condition>
+      <g:google_product_category>Fashion &gt; Clothing &gt; Casual</g:google_product_category>
+      <g:product_type>Fashion &gt; Clothing &gt; Casual</g:product_type>
+      <g:color>Blue</g:color>
+      <g:size>L</g:size>
+      <g:shipping>
+        <g:country>IN</g:country>
+        <g:service>Standard</g:service>
+        <g:price>50 INR</g:price>
+      </g:shipping>
+    </item>
+    <item>
+      <g:id>SKU16</g:id>
+      <g:title>Elegant Denim Jacket</g:title>
+      <g:description>Elegant Denim Jacket designed for everyday use with high quality finish and comfort. Ideal for modern lifestyle needs.</g:description>
+      <g:link>https://example.com/product/16</g:link>
+      <g:image_link>https://picsum.photos/seed/SKU16/500/500</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>809 INR</g:price>
+      <g:brand>Zara</g:brand>
+      <g:condition>new</g:condition>
+      <g:google_product_category>Fashion &gt; Clothing &gt; Casual</g:google_product_category>
+      <g:product_type>Fashion &gt; Clothing &gt; Casual</g:product_type>
+      <g:color>Blue</g:color>
+      <g:size>XXL</g:size>
+      <g:shipping>
+        <g:country>IN</g:country>
+        <g:service>Standard</g:service>
+        <g:price>50 INR</g:price>
+      </g:shipping>
+    </item>
+    <item>
+      <g:id>SKU17</g:id>
+      <g:title>Elegant Denim Jacket</g:title>
+      <g:description>Elegant Denim Jacket designed for everyday use with high quality finish and comfort. Ideal for modern lifestyle needs.</g:description>
+      <g:link>https://example.com/product/17</g:link>
+      <g:image_link>https://picsum.photos/seed/SKU17/500/500</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>1397 INR</g:price>
+      <g:brand>Zara</g:brand>
+      <g:condition>new</g:condition>
+      <g:google_product_category>Fashion &gt; Clothing &gt; Casual</g:google_product_category>
+      <g:product_type>Fashion &gt; Clothing &gt; Casual</g:product_type>
+      <g:color>Black</g:color>
+      <g:size>S</g:size>
+      <g:shipping>
+        <g:country>IN</g:country>
+        <g:service>Standard</g:service>
+        <g:price>50 INR</g:price>
+      </g:shipping>
+    </item>
+    <item>
+      <g:id>SKU18</g:id>
+      <g:title>Elegant Denim Jacket</g:title>
+      <g:description>Elegant Denim Jacket designed for everyday use with high quality finish and comfort. Ideal for modern lifestyle needs.</g:description>
+      <g:link>https://example.com/product/18</g:link>
+      <g:image_link>https://picsum.photos/seed/SKU18/500/500</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>548 INR</g:price>
+      <g:brand>Zara</g:brand>
+      <g:condition>new</g:condition>
+      <g:google_product_category>Fashion &gt; Clothing &gt; Casual</g:google_product_category>
+      <g:product_type>Fashion &gt; Clothing &gt; Casual</g:product_type>
+      <g:color>Black</g:color>
+      <g:size>XL</g:size>
+      <g:shipping>
+        <g:country>IN</g:country>
+        <g:service>Standard</g:service>
+        <g:price>50 INR</g:price>
+      </g:shipping>
+    </item>
+    <item>
+      <g:id>SKU19</g:id>
+      <g:title>Eco Denim Bag</g:title>
+      <g:description>Eco Denim Bag designed for everyday use with high quality finish and comfort. Ideal for modern lifestyle needs.</g:description>
+      <g:link>https://example.com/product/19</g:link>
+      <g:image_link>https://picsum.photos/seed/SKU19/500/500</g:image_link>
+      <g:availability>out_of_stock</g:availability>
+      <g:price>879 INR</g:price>
+      <g:sale_price>724 INR</g:sale_price>
+      <g:brand>Zara</g:brand>
+      <g:condition>new</g:condition>
+      <g:google_product_category>Fashion &gt; Clothing &gt; T-Shirts</g:google_product_category>
+      <g:product_type>Fashion &gt; Clothing &gt; T-Shirts</g:product_type>
+      <g:color>Red</g:color>
+      <g:shipping>
+        <g:country>IN</g:country>
+        <g:service>Standard</g:service>
+        <g:price>50 INR</g:price>
+      </g:shipping>
+    </item>
+    <item>
+      <g:id>SKU20</g:id>
+      <g:title>Eco Denim Bag</g:title>
+      <g:description>Eco Denim Bag designed for everyday use with high quality finish and comfort. Ideal for modern lifestyle needs.</g:description>
+      <g:link>https://example.com/product/20</g:link>
+      <g:image_link>https://picsum.photos/seed/SKU20/500/500</g:image_link>
+      <g:availability>out_of_stock</g:availability>
+      <g:price>528 INR</g:price>
+      <g:sale_price>370 INR</g:sale_price>
+      <g:brand>Nike</g:brand>
+      <g:condition>new</g:condition>
+      <g:google_product_category>Fashion &gt; Clothing &gt; T-Shirts</g:google_product_category>
+      <g:product_type>Fashion &gt; Clothing &gt; T-Shirts</g:product_type>
+      <g:color>Purple</g:color>
+      <g:shipping>
+        <g:country>IN</g:country>
+        <g:service>Standard</g:service>
+        <g:price>50 INR</g:price>
+      </g:shipping>
+    </item>
+    <item>
+      <g:id>SKU21</g:id>
+      <g:title>Luxury Metal Laptop Sleeve</g:title>
+      <g:description>Luxury Metal Laptop Sleeve designed for everyday use with high quality finish and comfort. Ideal for modern lifestyle needs.</g:description>
+      <g:link>https://example.com/product/21</g:link>
+      <g:image_link>https://picsum.photos/seed/SKU21/500/500</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>795 INR</g:price>
+      <g:sale_price>523 INR</g:sale_price>
+      <g:brand>Nike</g:brand>
+      <g:condition>new</g:condition>
+      <g:google_product_category>Fashion &gt; Clothing &gt; T-Shirts</g:google_product_category>
+      <g:product_type>Fashion &gt; Clothing &gt; T-Shirts</g:product_type>
+      <g:color>Green</g:color>
+      <g:shipping>
+        <g:country>IN</g:country>
+        <g:service>Standard</g:service>
+        <g:price>50 INR</g:price>
+      </g:shipping>
+    </item>
+    <item>
+      <g:id>SKU22</g:id>
+      <g:title>Premium Leather Lamp</g:title>
+      <g:description>Premium Leather Lamp designed for everyday use with high quality finish and comfort. Ideal for modern lifestyle needs.</g:description>
+      <g:link>https://example.com/product/22</g:link>
+      <g:image_link>https://picsum.photos/seed/SKU22/500/500</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>842 INR</g:price>
+      <g:brand>Nike</g:brand>
+      <g:condition>new</g:condition>
+      <g:google_product_category>Fashion &gt; Clothing &gt; T-Shirts</g:google_product_category>
+      <g:product_type>Fashion &gt; Clothing &gt; T-Shirts</g:product_type>
+      <g:color>White</g:color>
+      <g:shipping>
+        <g:country>IN</g:country>
+        <g:service>Standard</g:service>
+        <g:price>50 INR</g:price>
+      </g:shipping>
+    </item>
+    <item>
+      <g:id>SKU23</g:id>
+      <g:title>Luxury Wooden Chair</g:title>
+      <g:description>Luxury Wooden Chair designed for everyday use with high quality finish and comfort. Ideal for modern lifestyle needs.</g:description>
+      <g:link>https://example.com/product/23</g:link>
+      <g:image_link>https://picsum.photos/seed/SKU23/500/500</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>622 INR</g:price>
+      <g:brand>Adidas</g:brand>
+      <g:condition>new</g:condition>
+      <g:google_product_category>Fashion &gt; Clothing &gt; T-Shirts</g:google_product_category>
+      <g:product_type>Fashion &gt; Clothing &gt; T-Shirts</g:product_type>
+      <g:color>Red</g:color>
+      <g:shipping>
+        <g:country>IN</g:country>
+        <g:service>Standard</g:service>
+        <g:price>50 INR</g:price>
+      </g:shipping>
+    </item>
+    <item>
+      <g:id>SKU24</g:id>
+      <g:title>Modern Leather Sofa</g:title>
+      <g:description>Modern Leather Sofa designed for everyday use with high quality finish and comfort. Ideal for modern lifestyle needs.</g:description>
+      <g:link>https://example.com/product/24</g:link>
+      <g:image_link>https://picsum.photos/seed/SKU24/500/500</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>452 INR</g:price>
+      <g:brand>Adidas</g:brand>
+      <g:condition>new</g:condition>
+      <g:google_product_category>Fashion &gt; Clothing &gt; T-Shirts</g:google_product_category>
+      <g:product_type>Fashion &gt; Clothing &gt; T-Shirts</g:product_type>
+      <g:color>Blue</g:color>
+      <g:shipping>
+        <g:country>IN</g:country>
+        <g:service>Standard</g:service>
+        <g:price>50 INR</g:price>
+      </g:shipping>
+    </item>
+    <item>
+      <g:id>SKU25</g:id>
+      <g:title>Classic Metal Headphones</g:title>
+      <g:description>Classic Metal Headphones designed for everyday use with high quality finish and comfort. Ideal for modern lifestyle needs.</g:description>
+      <g:link>https://example.com/product/25</g:link>
+      <g:image_link>https://picsum.photos/seed/SKU25/500/500</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>637 INR</g:price>
+      <g:brand>Nike</g:brand>
+      <g:condition>new</g:condition>
+      <g:google_product_category>Fashion &gt; Clothing &gt; T-Shirts</g:google_product_category>
+      <g:product_type>Fashion &gt; Clothing &gt; T-Shirts</g:product_type>
+      <g:color>Red</g:color>
+      <g:shipping>
+        <g:country>IN</g:country>
+        <g:service>Standard</g:service>
+        <g:price>50 INR</g:price>
+      </g:shipping>
+    </item>
+    <item>
+      <g:id>SKU26</g:id>
+      <g:title>Eco Silk Table</g:title>
+      <g:description>Eco Silk Table designed for everyday use with high quality finish and comfort. Ideal for modern lifestyle needs.</g:description>
+      <g:link>https://example.com/product/26</g:link>
+      <g:image_link>https://picsum.photos/seed/SKU26/500/500</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>415 INR</g:price>
+      <g:brand>Nike</g:brand>
+      <g:condition>new</g:condition>
+      <g:google_product_category>Fashion &gt; Clothing &gt; T-Shirts</g:google_product_category>
+      <g:product_type>Fashion &gt; Clothing &gt; T-Shirts</g:product_type>
+      <g:color>White</g:color>
+      <g:shipping>
+        <g:country>IN</g:country>
+        <g:service>Standard</g:service>
+        <g:price>50 INR</g:price>
+      </g:shipping>
+    </item>
+    <item>
+      <g:id>SKU27</g:id>
+      <g:title>Eco Denim Headphones</g:title>
+      <g:description>Eco Denim Headphones designed for everyday use with high quality finish and comfort. Ideal for modern lifestyle needs.</g:description>
+      <g:link>https://example.com/product/27</g:link>
+      <g:image_link>https://picsum.photos/seed/SKU27/500/500</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>717 INR</g:price>
+      <g:brand>Adidas</g:brand>
+      <g:condition>new</g:condition>
+      <g:google_product_category>Fashion &gt; Clothing &gt; T-Shirts</g:google_product_category>
+      <g:product_type>Fashion &gt; Clothing &gt; T-Shirts</g:product_type>
+      <g:color>Blue</g:color>
+      <g:shipping>
+        <g:country>IN</g:country>
+        <g:service>Standard</g:service>
+        <g:price>50 INR</g:price>
+      </g:shipping>
+    </item>
+    <item>
+      <g:id>SKU28</g:id>
+      <g:title>Luxury Steel Sofa</g:title>
+      <g:description>Luxury Steel Sofa designed for everyday use with high quality finish and comfort. Ideal for modern lifestyle needs.</g:description>
+      <g:link>https://example.com/product/28</g:link>
+      <g:image_link>https://picsum.photos/seed/SKU28/500/500</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>434 INR</g:price>
+      <g:brand>Nike</g:brand>
+      <g:condition>new</g:condition>
+      <g:google_product_category>Fashion &gt; Clothing &gt; T-Shirts</g:google_product_category>
+      <g:product_type>Fashion &gt; Clothing &gt; T-Shirts</g:product_type>
+      <g:color>Blue</g:color>
+      <g:shipping>
+        <g:country>IN</g:country>
+        <g:service>Standard</g:service>
+        <g:price>50 INR</g:price>
+      </g:shipping>
+    </item>
+    <item>
+      <g:id>SKU29</g:id>
+      <g:title>Stylish Steel Jacket</g:title>
+      <g:description>Stylish Steel Jacket designed for everyday use with high quality finish and comfort. Ideal for modern lifestyle needs.</g:description>
+      <g:link>https://example.com/product/29</g:link>
+      <g:image_link>https://picsum.photos/seed/SKU29/500/500</g:image_link>
+      <g:availability>out_of_stock</g:availability>
+      <g:price>536 INR</g:price>
+      <g:sale_price>371 INR</g:sale_price>
+      <g:brand>Adidas</g:brand>
+      <g:condition>new</g:condition>
+      <g:google_product_category>Fashion &gt; Clothing &gt; Shirts</g:google_product_category>
+      <g:product_type>Fashion &gt; Clothing &gt; Shirts</g:product_type>
+      <g:color>Red</g:color>
+      <g:shipping>
+        <g:country>IN</g:country>
+        <g:service>Standard</g:service>
+        <g:price>50 INR</g:price>
+      </g:shipping>
+    </item>
+    <item>
+      <g:id>SKU30</g:id>
+      <g:title>Stylish Wooden Table</g:title>
+      <g:description>Stylish Wooden Table designed for everyday use with high quality finish and comfort. Ideal for modern lifestyle needs.</g:description>
+      <g:link>https://example.com/product/30</g:link>
+      <g:image_link>https://picsum.photos/seed/SKU30/500/500</g:image_link>
+      <g:availability>out_of_stock</g:availability>
+      <g:price>863 INR</g:price>
+      <g:brand>Nike</g:brand>
+      <g:condition>new</g:condition>
+      <g:google_product_category>Fashion &gt; Clothing &gt; Shirts</g:google_product_category>
+      <g:product_type>Fashion &gt; Clothing &gt; Shirts</g:product_type>
+      <g:color>Blue</g:color>
+      <g:shipping>
+        <g:country>IN</g:country>
+        <g:service>Standard</g:service>
+        <g:price>50 INR</g:price>
+      </g:shipping>
+    </item>
+    <item>
+      <g:id>SKU31</g:id>
+      <g:title>Eco Denim Laptop Sleeve</g:title>
+      <g:description>Eco Denim Laptop Sleeve designed for everyday use with high quality finish and comfort. Ideal for modern lifestyle needs.</g:description>
+      <g:link>https://example.com/product/31</g:link>
+      <g:image_link>https://picsum.photos/seed/SKU31/500/500</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>747 INR</g:price>
+      <g:brand>Zara</g:brand>
+      <g:condition>new</g:condition>
+      <g:google_product_category>Fashion &gt; Clothing &gt; Shirts</g:google_product_category>
+      <g:product_type>Fashion &gt; Clothing &gt; Shirts</g:product_type>
+      <g:color>White</g:color>
+      <g:shipping>
+        <g:country>IN</g:country>
+        <g:service>Standard</g:service>
+        <g:price>50 INR</g:price>
+      </g:shipping>
+    </item>
+    <item>
+      <g:id>SKU32</g:id>
+      <g:title>Smart Bamboo Laptop Sleeve</g:title>
+      <g:description>Smart Bamboo Laptop Sleeve designed for everyday use with high quality finish and comfort. Ideal for modern lifestyle needs.</g:description>
+      <g:link>https://example.com/product/32</g:link>
+      <g:image_link>https://picsum.photos/seed/SKU32/500/500</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>539 INR</g:price>
+      <g:brand>Zara</g:brand>
+      <g:condition>new</g:condition>
+      <g:google_product_category>Fashion &gt; Clothing &gt; Shirts</g:google_product_category>
+      <g:product_type>Fashion &gt; Clothing &gt; Shirts</g:product_type>
+      <g:color>Blue</g:color>
+      <g:shipping>
+        <g:country>IN</g:country>
+        <g:service>Standard</g:service>
+        <g:price>50 INR</g:price>
+      </g:shipping>
+    </item>
+    <item>
+      <g:id>SKU33</g:id>
+      <g:title>Eco Glass Sofa</g:title>
+      <g:description>Eco Glass Sofa designed for everyday use with high quality finish and comfort. Ideal for modern lifestyle needs.</g:description>
+      <g:link>https://example.com/product/33</g:link>
+      <g:image_link>https://picsum.photos/seed/SKU33/500/500</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>429 INR</g:price>
+      <g:brand>Zara</g:brand>
+      <g:condition>new</g:condition>
+      <g:google_product_category>Fashion &gt; Clothing &gt; Shirts</g:google_product_category>
+      <g:product_type>Fashion &gt; Clothing &gt; Shirts</g:product_type>
+      <g:color>Red</g:color>
+      <g:shipping>
+        <g:country>IN</g:country>
+        <g:service>Standard</g:service>
+        <g:price>50 INR</g:price>
+      </g:shipping>
+    </item>
+    <item>
+      <g:id>SKU34</g:id>
+      <g:title>Basic Shirt </g:title>
+      <g:description>Basic shirt variant 5</g:description>
+      <g:link>https://example.com/product/34</g:link>
+      <g:image_link>https://picsum.photos/seed/SKU34/500/500</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>622 INR</g:price>
+      <g:brand>Nike</g:brand>
+      <g:condition>new</g:condition>
+      <g:google_product_category>Fashion &gt; Clothing &gt; Shirts</g:google_product_category>
+      <g:product_type>Fashion &gt; Clothing &gt; Shirts</g:product_type>
+      <g:color>Blue</g:color>
+      <g:shipping>
+        <g:country>IN</g:country>
+        <g:service>Standard</g:service>
+        <g:price>50 INR</g:price>
+      </g:shipping>
+    </item>
+    <item>
+      <g:id>SKU35</g:id>
+      <g:title>Basic Shirt </g:title>
+      <g:description>Basic shirt variant 6</g:description>
+      <g:link>https://example.com/product/35</g:link>
+      <g:image_link>https://picsum.photos/seed/SKU35/500/500</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>606 INR</g:price>
+      <g:brand>Zara</g:brand>
+      <g:condition>new</g:condition>
+      <g:google_product_category>Fashion &gt; Clothing &gt; Shirts</g:google_product_category>
+      <g:product_type>Fashion &gt; Clothing &gt; Shirts</g:product_type>
+      <g:color>Blue</g:color>
+      <g:shipping>
+        <g:country>IN</g:country>
+        <g:service>Standard</g:service>
+        <g:price>50 INR</g:price>
+      </g:shipping>
+    </item>
+    <item>
+      <g:id>SKU36</g:id>
+      <g:title>Basic Shirt </g:title>
+      <g:description>Basic shirt variant 7</g:description>
+      <g:link>https://example.com/product/36</g:link>
+      <g:image_link>https://picsum.photos/seed/SKU36/500/500</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>712 INR</g:price>
+      <g:brand>Adidas</g:brand>
+      <g:condition>new</g:condition>
+      <g:google_product_category>Fashion &gt; Clothing &gt; Shirts</g:google_product_category>
+      <g:product_type>Fashion &gt; Clothing &gt; Shirts</g:product_type>
+      <g:color>Green</g:color>
+      <g:shipping>
+        <g:country>IN</g:country>
+        <g:service>Standard</g:service>
+        <g:price>50 INR</g:price>
+      </g:shipping>
+    </item>
+    <item>
+      <g:id>SKU37</g:id>
+      <g:title>Basic Shirt </g:title>
+      <g:description>Basic shirt variant 8</g:description>
+      <g:link>https://example.com/product/37</g:link>
+      <g:image_link>https://picsum.photos/seed/SKU37/500/500</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>642 INR</g:price>
+      <g:brand>Nike</g:brand>
+      <g:condition>new</g:condition>
+      <g:google_product_category>Fashion &gt; Clothing &gt; Shirts</g:google_product_category>
+      <g:product_type>Fashion &gt; Clothing &gt; Shirts</g:product_type>
+      <g:color>Black</g:color>
+      <g:shipping>
+        <g:country>IN</g:country>
+        <g:service>Standard</g:service>
+        <g:price>50 INR</g:price>
+      </g:shipping>
+    </item>
+    <item>
+      <g:id>SKU38</g:id>
+      <g:title>Basic Shirt </g:title>
+      <g:description>Basic shirt variant 9</g:description>
+      <g:link>https://example.com/product/38</g:link>
+      <g:image_link>https://picsum.photos/seed/SKU38/500/500</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>446 INR</g:price>
+      <g:brand>Adidas</g:brand>
+      <g:condition>new</g:condition>
+      <g:google_product_category>Fashion &gt; Clothing &gt; Shirts</g:google_product_category>
+      <g:product_type>Fashion &gt; Clothing &gt; Shirts</g:product_type>
+      <g:color>White</g:color>
+      <g:shipping>
+        <g:country>IN</g:country>
+        <g:service>Standard</g:service>
+        <g:price>50 INR</g:price>
+      </g:shipping>
+    </item>
+    <item>
+      <g:id>SKU39</g:id>
+      <g:title>Size Hoodie </g:title>
+      <g:description>Comfort hoodie size variant 0</g:description>
+      <g:link>https://example.com/product/39</g:link>
+      <g:image_link>https://picsum.photos/seed/SKU39/500/500</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>1028 INR</g:price>
+      <g:brand>Adidas</g:brand>
+      <g:condition>new</g:condition>
+      <g:google_product_category>Fashion &gt; Clothing &gt; Hoodies</g:google_product_category>
+      <g:product_type>Fashion &gt; Clothing &gt; Hoodies</g:product_type>
+      <g:size>M</g:size>
+      <g:shipping>
+        <g:country>IN</g:country>
+        <g:service>Standard</g:service>
+        <g:price>50 INR</g:price>
+      </g:shipping>
+    </item>
+    <item>
+      <g:id>SKU40</g:id>
+      <g:title>Size Hoodie </g:title>
+      <g:description>Comfort hoodie size variant 1</g:description>
+      <g:link>https://example.com/product/40</g:link>
+      <g:image_link>https://picsum.photos/seed/SKU40/500/500</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>1110 INR</g:price>
+      <g:brand>Adidas</g:brand>
+      <g:condition>new</g:condition>
+      <g:google_product_category>Fashion &gt; Clothing &gt; Hoodies</g:google_product_category>
+      <g:product_type>Fashion &gt; Clothing &gt; Hoodies</g:product_type>
+      <g:size>S</g:size>
+      <g:shipping>
+        <g:country>IN</g:country>
+        <g:service>Standard</g:service>
+        <g:price>50 INR</g:price>
+      </g:shipping>
+    </item>
+    <item>
+      <g:id>SKU41</g:id>
+      <g:title>Size Hoodie </g:title>
+      <g:description>Comfort hoodie size variant 2</g:description>
+      <g:link>https://example.com/product/41</g:link>
+      <g:image_link>https://picsum.photos/seed/SKU41/500/500</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>1150 INR</g:price>
+      <g:brand>Nike</g:brand>
+      <g:condition>new</g:condition>
+      <g:google_product_category>Fashion &gt; Clothing &gt; Hoodies</g:google_product_category>
+      <g:product_type>Fashion &gt; Clothing &gt; Hoodies</g:product_type>
+      <g:size>L</g:size>
+      <g:shipping>
+        <g:country>IN</g:country>
+        <g:service>Standard</g:service>
+        <g:price>50 INR</g:price>
+      </g:shipping>
+    </item>
+    <item>
+      <g:id>SKU42</g:id>
+      <g:title>Size Hoodie </g:title>
+      <g:description>Comfort hoodie size variant 3</g:description>
+      <g:link>https://example.com/product/42</g:link>
+      <g:image_link>https://picsum.photos/seed/SKU42/500/500</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>1389 INR</g:price>
+      <g:brand>Zara</g:brand>
+      <g:condition>new</g:condition>
+      <g:google_product_category>Fashion &gt; Clothing &gt; Hoodies</g:google_product_category>
+      <g:product_type>Fashion &gt; Clothing &gt; Hoodies</g:product_type>
+      <g:size>XL</g:size>
+      <g:shipping>
+        <g:country>IN</g:country>
+        <g:service>Standard</g:service>
+        <g:price>50 INR</g:price>
+      </g:shipping>
+    </item>
+    <item>
+      <g:id>SKU43</g:id>
+      <g:title>Size Hoodie </g:title>
+      <g:description>Comfort hoodie size variant 4</g:description>
+      <g:link>https://example.com/product/43</g:link>
+      <g:image_link>https://picsum.photos/seed/SKU43/500/500</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>1115 INR</g:price>
+      <g:brand>Zara</g:brand>
+      <g:condition>new</g:condition>
+      <g:google_product_category>Fashion &gt; Clothing &gt; Hoodies</g:google_product_category>
+      <g:product_type>Fashion &gt; Clothing &gt; Hoodies</g:product_type>
+      <g:size>L</g:size>
+      <g:shipping>
+        <g:country>IN</g:country>
+        <g:service>Standard</g:service>
+        <g:price>50 INR</g:price>
+      </g:shipping>
+    </item>
+    <item>
+      <g:id>SKU44</g:id>
+      <g:title>Relaxed Delhi City Lifestyle Jersey</g:title>
+      <g:description>Classic Cotton Shirt designed for everyday use with high quality finish and comfort. Ideal for modern lifestyle needs.</g:description>
+      <g:link>https://example.com/product/44</g:link>
+      <g:image_link>https://picsum.photos/seed/SKU44/500/500</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>387 INR</g:price>
+      <g:brand>Puma</g:brand>
+      <g:condition>new</g:condition>
+      <g:google_product_category>Electronics &gt; Accessories &gt; Gadgets</g:google_product_category>
+      <g:product_type>Electronics &gt; Accessories &gt; Gadgets</g:product_type>
+      <g:shipping>
+        <g:country>IN</g:country>
+        <g:service>Standard</g:service>
+        <g:price>50 INR</g:price>
+      </g:shipping>
+    </item>
+    <item>
+      <g:id>SKU45</g:id>
+      <g:title>Palermo Leather Sneakers</g:title>
+      <g:description>Smart Glass Table designed for everyday use with high quality finish and comfort. Ideal for modern lifestyle needs.</g:description>
+      <g:link>https://example.com/product/45</g:link>
+      <g:image_link>https://picsum.photos/seed/SKU45/500/500</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>861 INR</g:price>
+      <g:brand>Puma</g:brand>
+      <g:condition>new</g:condition>
+      <g:google_product_category>Electronics &gt; Accessories &gt; Gadgets</g:google_product_category>
+      <g:product_type>Electronics &gt; Accessories &gt; Gadgets</g:product_type>
+      <g:shipping>
+        <g:country>IN</g:country>
+        <g:service>Standard</g:service>
+        <g:price>50 INR</g:price>
+      </g:shipping>
+    </item>
+    <item>
+      <g:id>SKU46</g:id>
+      <g:title>Performance Woven Men's Side Pocket Gym Shorts</g:title>
+      <g:description>Stylish Leather Table designed for everyday use with high quality finish and comfort. Ideal for modern lifestyle needs.</g:description>
+      <g:link>https://example.com/product/46</g:link>
+      <g:image_link>https://picsum.photos/seed/SKU46/500/500</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>778 INR</g:price>
+      <g:brand>Nike</g:brand>
+      <g:condition>new</g:condition>
+      <g:google_product_category>Electronics &gt; Accessories &gt; Gadgets</g:google_product_category>
+      <g:product_type>Electronics &gt; Accessories &gt; Gadgets</g:product_type>
+      <g:shipping>
+        <g:country>IN</g:country>
+        <g:service>Standard</g:service>
+        <g:price>50 INR</g:price>
+      </g:shipping>
+    </item>
+    <item>
+      <g:id>SKU47</g:id>
+      <g:title>Deviate 2 Brand logo Printed Backpack</g:title>
+      <g:description>Stylish Silk Shirt designed for everyday use with high quality finish and comfort. Ideal for modern lifestyle needs.</g:description>
+      <g:link>https://example.com/product/47</g:link>
+      <g:image_link>https://picsum.photos/seed/SKU47/500/500</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>382 INR</g:price>
+      <g:brand>Nike</g:brand>
+      <g:condition>new</g:condition>
+      <g:google_product_category>Electronics &gt; Accessories &gt; Gadgets</g:google_product_category>
+      <g:product_type>Electronics &gt; Accessories &gt; Gadgets</g:product_type>
+      <g:shipping>
+        <g:country>IN</g:country>
+        <g:service>Standard</g:service>
+        <g:price>50 INR</g:price>
+      </g:shipping>
+    </item>
+    <item>
+      <g:id>SKU48</g:id>
+      <g:title>Unisex Running Cap</g:title>
+      <g:description>Classic Denim Laptop Sleeve designed for everyday use with high quality finish and comfort. Ideal for modern lifestyle needs.</g:description>
+      <g:link>https://example.com/product/48</g:link>
+      <g:image_link>https://picsum.photos/seed/SKU48/500/500</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>946 INR</g:price>
+      <g:brand>Adidas</g:brand>
+      <g:condition>new</g:condition>
+      <g:google_product_category>Electronics &gt; Accessories &gt; Gadgets</g:google_product_category>
+      <g:product_type>Electronics &gt; Accessories &gt; Gadgets</g:product_type>
+      <g:shipping>
+        <g:country>IN</g:country>
+        <g:service>Standard</g:service>
+        <g:price>50 INR</g:price>
+      </g:shipping>
+    </item>
+    <item>
+      <g:id>SKU49</g:id>
+      <g:title>Wave Flip Flip-Flops</g:title>
+      <g:description>Dive into effortless ease with water-resistant slip-ons built for summer days. Crafted with moulded injected EVA for a snug fit and textured footbed for all-day support. Perfect for sandy strolls or poolside lounging. PUMA brings comfort and confidence to every step.</g:description>
+      <g:link>https://example.com/product/49</g:link>
+      <g:image_link>https://picsum.photos/seed/SKU49/500/500</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>1069 INR</g:price>
+      <g:brand>Nike</g:brand>
+      <g:condition>new</g:condition>
+      <g:google_product_category>Electronics &gt; Accessories &gt; Gadgets</g:google_product_category>
+      <g:product_type>Electronics &gt; Accessories &gt; Gadgets</g:product_type>
+      <g:shipping>
+        <g:country>IN</g:country>
+        <g:service>Standard</g:service>
+        <g:price>50 INR</g:price>
+      </g:shipping>
+    </item>
+    <item>
+      <g:id>SKU50</g:id>
+      <g:title>Leather Cruise Unisex Wallet</g:title>
+      <g:description>Designed for the individual with a taste for the refined, this wallet offers ample space with its bill compartments, card slots, and a handy coin pocket. Crafted from premium leather and adorned with the iconic PUMA cat logo, this wallet merges functionality with casual elegance. Whether you're out for a coffee run or managing your day-to-day transactions, keep it all together in PUMA's enduring style.</g:description>
+      <g:link>https://example.com/product/50</g:link>
+      <g:image_link>https://picsum.photos/seed/SKU50/500/500</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>972 INR</g:price>
+      <g:brand>Zara</g:brand>
+      <g:condition>new</g:condition>
+      <g:google_product_category>Electronics &gt; Accessories &gt; Gadgets</g:google_product_category>
+      <g:product_type>Electronics &gt; Accessories &gt; Gadgets</g:product_type>
+      <g:shipping>
+        <g:country>IN</g:country>
+        <g:service>Standard</g:service>
+        <g:price>50 INR</g:price>
+      </g:shipping>
+    </item>
+  </channel>
+</rss>
